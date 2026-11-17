@@ -1,0 +1,151 @@
+reviewer_id,product_id,review_title,review_text,rating,helpful_votes,verified_purchase,review_date
+R005,P009,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear. I checked the fit after washing.,5,3,Yes,2026-10-02
+R027,P002,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected.",2,7,Yes,2026-09-14
+R004,P010,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing. The product arrived on time.,5,18,No,2026-01-08
+R035,P002,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear. I compared it with another brand before ordering.,4,18,Yes,2026-09-27
+R005,P010,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up. The product arrived on time.",2,1,Yes,2026-08-22
+R030,P006,Length issue,"The quality is reasonable, however the shirt is shorter than the measurements suggest. The waist is tight and the sleeves are awkward. I checked the fit after washing.",2,9,Yes,2026-03-23
+R022,P012,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up. I compared it with another brand before ordering.",2,14,Yes,2026-10-03
+R010,P008,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. The product arrived on time.,5,13,Yes,2026-11-03
+R032,P010,Length issue,"The quality is reasonable, however the shirt is shorter than the measurements suggest. The waist is tight and the sleeves are awkward. I compared it with another brand before ordering.",3,14,Yes,2026-02-09
+R020,P011,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up.",3,18,No,2026-05-23
+R023,P003,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves.",5,19,Yes,2026-08-02
+R026,P007,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. The product arrived on time.",5,15,Yes,2026-03-15
+R018,P012,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. The product arrived on time.",5,13,Yes,2026-11-13
+R015,P011,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected.",3,7,Yes,2026-08-27
+R027,P009,Length issue,"The quality is reasonable, however the shirt is shorter than the measurements suggest. The waist is tight and the sleeves are awkward. I compared it with another brand before ordering.",1,11,Yes,2026-03-23
+R026,P007,Average quality,The shirt fits as expected. The fabric is neither very thick nor very thin. It is suitable for casual use.,3,12,No,2026-02-16
+R014,P008,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up. The product arrived on time.",1,5,Yes,2026-06-20
+R024,P010,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing. The product arrived on time.,4,0,Yes,2026-04-20
+R031,P002,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. I compared it with another brand before ordering.",5,3,No,2026-08-16
+R022,P012,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up. The product arrived on time.",1,8,No,2026-12-06
+R035,P001,Fabric disappointed me,The material feels thin and itchy. After one wash the color faded and a seam started coming loose. I would return it. I compared it with another brand before ordering.,1,24,Yes,2026-11-28
+R023,P004,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. I compared it with another brand before ordering.",5,17,Yes,2026-11-08
+R015,P004,Fabric disappointed me,The material feels thin and itchy. After one wash the color faded and a seam started coming loose. I would return it. The product arrived on time.,3,16,No,2026-06-24
+R013,P012,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing. I compared it with another brand before ordering.,4,19,Yes,2026-08-26
+R007,P004,Mixed experience,"The material is comfortable, although the color is slightly different. The size is mostly accurate and the stitching seems fine. I compared it with another brand before ordering.",2,15,Yes,2026-06-07
+R023,P011,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up. I checked the fit after washing.",4,2,Yes,2026-07-26
+R028,P011,Fabric disappointed me,The material feels thin and itchy. After one wash the color faded and a seam started coming loose. I would return it. I checked the fit after washing.,4,10,Yes,2026-12-13
+R009,P001,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up. The product arrived on time.",1,4,No,2026-11-05
+R009,P001,Not as expected,The color is different from the photos and the fabric feels rough. I expected better stitching for this price. I compared it with another brand before ordering.,1,0,Yes,2026-09-24
+R014,P001,Mixed experience,"The material is comfortable, although the color is slightly different. The size is mostly accurate and the stitching seems fine. The product arrived on time.",4,8,Yes,2026-05-17
+R009,P001,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. I compared it with another brand before ordering.",4,23,Yes,2026-08-22
+R034,P009,Not as expected,The color is different from the photos and the fabric feels rough. I expected better stitching for this price. The product arrived on time.,2,0,No,2026-03-20
+R008,P009,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear. The product arrived on time.,3,1,Yes,2026-11-17
+R004,P004,Not as expected,The color is different from the photos and the fabric feels rough. I expected better stitching for this price.,4,6,Yes,2026-01-25
+R005,P008,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it.,5,10,Yes,2026-12-09
+R017,P009,Not as expected,The color is different from the photos and the fabric feels rough. I expected better stitching for this price. The product arrived on time.,3,6,No,2026-03-14
+R016,P007,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. I compared it with another brand before ordering.,3,2,Yes,2026-11-10
+R009,P008,Fabric disappointed me,The material feels thin and itchy. After one wash the color faded and a seam started coming loose. I would return it. I compared it with another brand before ordering.,1,7,Yes,2026-07-16
+R033,P007,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear. The product arrived on time.,5,10,No,2026-04-12
+R030,P008,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves.",4,22,Yes,2026-07-11
+R015,P002,Length issue,"The quality is reasonable, however the shirt is shorter than the measurements suggest. The waist is tight and the sleeves are awkward.",1,2,Yes,2026-05-02
+R028,P011,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected. I compared it with another brand before ordering.",4,8,No,2026-03-18
+R006,P005,Average quality,The shirt fits as expected. The fabric is neither very thick nor very thin. It is suitable for casual use. I checked the fit after washing.,3,1,Yes,2026-07-03
+R006,P010,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing.,5,7,Yes,2026-05-28
+R027,P005,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing. I compared it with another brand before ordering.,5,19,Yes,2026-01-17
+R012,P004,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up. The product arrived on time.",1,9,Yes,2026-09-25
+R002,P005,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. The product arrived on time.,4,1,Yes,2026-01-24
+R029,P002,Fabric disappointed me,The material feels thin and itchy. After one wash the color faded and a seam started coming loose. I would return it. I checked the fit after washing.,1,21,No,2026-11-16
+R015,P006,Not as expected,The color is different from the photos and the fabric feels rough. I expected better stitching for this price. I compared it with another brand before ordering.,3,6,Yes,2026-07-12
+R017,P007,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected.",2,5,Yes,2026-02-22
+R019,P001,Average quality,The shirt fits as expected. The fabric is neither very thick nor very thin. It is suitable for casual use. I compared it with another brand before ordering.,3,14,Yes,2026-03-09
+R021,P004,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. I compared it with another brand before ordering.",5,1,Yes,2026-04-12
+R018,P009,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. I checked the fit after washing.",3,20,Yes,2026-04-17
+R010,P007,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up. I compared it with another brand before ordering.",3,18,Yes,2026-07-01
+R034,P003,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear.,4,21,No,2026-06-24
+R010,P001,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected. I compared it with another brand before ordering.",3,22,No,2026-12-23
+R015,P002,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected.",4,0,Yes,2026-03-21
+R004,P011,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing. I checked the fit after washing.,5,0,Yes,2026-08-09
+R005,P012,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing.,5,23,No,2026-05-26
+R014,P004,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. The product arrived on time.",5,23,No,2026-08-28
+R013,P002,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. I compared it with another brand before ordering.,5,19,Yes,2026-06-09
+R004,P008,Length issue,"The quality is reasonable, however the shirt is shorter than the measurements suggest. The waist is tight and the sleeves are awkward. The product arrived on time.",1,8,Yes,2026-12-07
+R030,P002,Length issue,"The quality is reasonable, however the shirt is shorter than the measurements suggest. The waist is tight and the sleeves are awkward. I compared it with another brand before ordering.",2,17,Yes,2026-05-03
+R033,P008,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected. I compared it with another brand before ordering.",3,8,No,2026-04-07
+R017,P006,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing. The product arrived on time.,5,4,Yes,2026-02-23
+R011,P001,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. I checked the fit after washing.,4,15,No,2026-07-10
+R008,P006,Not as expected,The color is different from the photos and the fabric feels rough. I expected better stitching for this price. I compared it with another brand before ordering.,2,0,Yes,2026-06-27
+R019,P005,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear.,5,11,Yes,2026-07-13
+R028,P005,Average quality,The shirt fits as expected. The fabric is neither very thick nor very thin. It is suitable for casual use.,3,1,Yes,2026-02-02
+R018,P007,Mixed experience,"The material is comfortable, although the color is slightly different. The size is mostly accurate and the stitching seems fine. The product arrived on time.",3,16,Yes,2026-04-25
+R026,P009,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it.,5,17,Yes,2026-12-03
+R009,P011,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. I checked the fit after washing.,5,9,No,2026-01-18
+R020,P005,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. I checked the fit after washing.,4,23,Yes,2026-07-21
+R011,P002,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. I checked the fit after washing.,3,6,No,2026-09-08
+R013,P004,Length issue,"The quality is reasonable, however the shirt is shorter than the measurements suggest. The waist is tight and the sleeves are awkward. I checked the fit after washing.",2,2,Yes,2026-06-18
+R013,P001,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear. I compared it with another brand before ordering.,4,23,No,2026-07-14
+R004,P008,Fabric disappointed me,The material feels thin and itchy. After one wash the color faded and a seam started coming loose. I would return it. I checked the fit after washing.,1,8,Yes,2026-03-22
+R016,P007,Fabric disappointed me,The material feels thin and itchy. After one wash the color faded and a seam started coming loose. I would return it.,1,12,No,2026-07-10
+R031,P010,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected. The product arrived on time.",1,15,Yes,2026-02-13
+R016,P002,Average quality,The shirt fits as expected. The fabric is neither very thick nor very thin. It is suitable for casual use. I checked the fit after washing.,5,7,Yes,2026-03-17
+R003,P001,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected. I checked the fit after washing.",2,4,Yes,2026-10-02
+R034,P011,Length issue,"The quality is reasonable, however the shirt is shorter than the measurements suggest. The waist is tight and the sleeves are awkward. The product arrived on time.",3,13,Yes,2026-02-03
+R001,P001,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear. I checked the fit after washing.,4,17,Yes,2026-08-09
+R016,P009,Average quality,The shirt fits as expected. The fabric is neither very thick nor very thin. It is suitable for casual use. The product arrived on time.,3,7,Yes,2026-07-23
+R027,P002,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up.",1,8,Yes,2026-11-14
+R022,P012,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected. I checked the fit after washing.",1,13,Yes,2026-11-13
+R013,P005,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves.",3,24,Yes,2026-04-15
+R032,P010,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves.",5,5,Yes,2026-08-14
+R004,P004,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected. The product arrived on time.",4,0,Yes,2026-07-02
+R021,P012,Fabric disappointed me,The material feels thin and itchy. After one wash the color faded and a seam started coming loose. I would return it. I checked the fit after washing.,2,3,Yes,2026-03-11
+R025,P006,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it.,4,10,No,2026-03-04
+R008,P009,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves.",4,24,Yes,2026-07-12
+R031,P004,Length issue,"The quality is reasonable, however the shirt is shorter than the measurements suggest. The waist is tight and the sleeves are awkward. I checked the fit after washing.",1,11,No,2026-04-11
+R016,P011,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it.,5,24,No,2026-01-13
+R005,P010,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing.,4,10,Yes,2026-05-11
+R021,P005,Average quality,The shirt fits as expected. The fabric is neither very thick nor very thin. It is suitable for casual use.,3,9,Yes,2026-12-25
+R007,P008,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up.",3,22,No,2026-07-26
+R032,P003,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. I checked the fit after washing.,3,0,Yes,2026-12-25
+R030,P006,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear. I compared it with another brand before ordering.,5,19,Yes,2026-09-07
+R003,P008,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear. The product arrived on time.,4,17,Yes,2026-03-14
+R014,P002,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected. I compared it with another brand before ordering.",3,13,No,2026-12-15
+R016,P012,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear. I checked the fit after washing.,4,17,Yes,2026-05-10
+R017,P004,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. I compared it with another brand before ordering.",4,14,Yes,2026-03-08
+R026,P005,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. The product arrived on time.",4,7,Yes,2026-11-26
+R031,P004,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it.,3,14,Yes,2026-01-10
+R013,P002,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing. The product arrived on time.,5,11,Yes,2026-08-20
+R023,P004,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing.,5,1,Yes,2026-06-05
+R014,P001,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves.",4,10,No,2026-11-12
+R032,P009,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves.",3,15,Yes,2026-07-04
+R026,P012,Fabric disappointed me,The material feels thin and itchy. After one wash the color faded and a seam started coming loose. I would return it.,3,8,No,2026-05-22
+R023,P007,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing. I compared it with another brand before ordering.,5,13,Yes,2026-06-21
+R028,P003,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. The product arrived on time.,5,13,Yes,2026-02-13
+R009,P001,Length issue,"The quality is reasonable, however the shirt is shorter than the measurements suggest. The waist is tight and the sleeves are awkward. I checked the fit after washing.",3,1,Yes,2026-11-26
+R011,P003,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected. I compared it with another brand before ordering.",3,11,Yes,2026-03-17
+R013,P005,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing.,4,4,Yes,2026-08-11
+R011,P011,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it.,5,7,No,2026-10-28
+R003,P007,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. The product arrived on time.,4,16,Yes,2026-07-12
+R003,P011,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear. The product arrived on time.,2,10,Yes,2026-07-20
+R016,P007,Length issue,"The quality is reasonable, however the shirt is shorter than the measurements suggest. The waist is tight and the sleeves are awkward. I checked the fit after washing.",2,12,Yes,2026-08-17
+R032,P008,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing.,5,7,No,2026-10-25
+R005,P003,Basic top,"The design is simple and the fabric is average. The fit is acceptable, but the sleeves are a little longer than I expected. I checked the fit after washing.",3,11,No,2026-06-03
+R009,P002,Average quality,The shirt fits as expected. The fabric is neither very thick nor very thin. It is suitable for casual use.,1,23,Yes,2026-12-17
+R005,P010,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. The product arrived on time.,2,23,Yes,2026-04-05
+R011,P011,Mixed experience,"The material is comfortable, although the color is slightly different. The size is mostly accurate and the stitching seems fine. I compared it with another brand before ordering.",5,23,Yes,2026-02-27
+R018,P008,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. The product arrived on time.",4,4,Yes,2026-09-16
+R003,P004,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. The product arrived on time.",4,5,No,2026-03-21
+R011,P005,Average quality,The shirt fits as expected. The fabric is neither very thick nor very thin. It is suitable for casual use. I compared it with another brand before ordering.,4,3,Yes,2026-11-28
+R035,P011,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it.,4,12,Yes,2026-05-13
+R006,P008,Average quality,The shirt fits as expected. The fabric is neither very thick nor very thin. It is suitable for casual use. The product arrived on time.,3,7,Yes,2026-10-24
+R021,P012,Mixed experience,"The material is comfortable, although the color is slightly different. The size is mostly accurate and the stitching seems fine. I compared it with another brand before ordering.",3,0,Yes,2026-04-05
+R004,P003,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. I checked the fit after washing.,4,15,Yes,2026-10-21
+R020,P002,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing.,4,16,Yes,2026-09-08
+R031,P003,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. The product arrived on time.",3,4,Yes,2026-04-23
+R018,P007,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing.,5,8,Yes,2026-01-21
+R034,P012,Mixed experience,"The material is comfortable, although the color is slightly different. The size is mostly accurate and the stitching seems fine. I checked the fit after washing.",3,15,Yes,2026-03-01
+R011,P001,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing. I checked the fit after washing.,3,24,Yes,2026-01-20
+R034,P010,Fabric disappointed me,The material feels thin and itchy. After one wash the color faded and a seam started coming loose. I would return it. The product arrived on time.,2,20,No,2026-10-06
+R031,P012,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up. I compared it with another brand before ordering.",3,17,Yes,2026-07-28
+R029,P003,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it.,5,7,Yes,2026-05-08
+R017,P012,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up. I compared it with another brand before ordering.",4,1,Yes,2026-11-18
+R014,P002,Length issue,"The quality is reasonable, however the shirt is shorter than the measurements suggest. The waist is tight and the sleeves are awkward. I compared it with another brand before ordering.",3,16,Yes,2026-03-09
+R021,P004,Average quality,The shirt fits as expected. The fabric is neither very thick nor very thin. It is suitable for casual use. The product arrived on time.,4,12,Yes,2026-10-08
+R001,P001,Good value,The material is soft and the seams are neat. I washed it twice and it has not faded or shrunk. I would recommend it. I checked the fit after washing.,5,13,Yes,2026-10-10
+R011,P003,Not as expected,The color is different from the photos and the fabric feels rough. I expected better stitching for this price.,2,1,Yes,2026-02-04
+R002,P001,Fabric disappointed me,The material feels thin and itchy. After one wash the color faded and a seam started coming loose. I would return it. I compared it with another brand before ordering.,5,1,Yes,2026-12-21
+R024,P004,Sizing runs small,"The fabric is soft but the fit is much tighter than expected. I ordered my usual size and the sleeves are short, so I would size up.",1,17,Yes,2026-12-13
+R003,P011,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear. The product arrived on time.,3,2,Yes,2026-08-04
+R028,P005,Great everyday shirt,I ordered my usual size and the sleeves and length fit well. The material is lightweight and comfortable for daily wear. I compared it with another brand before ordering.,4,0,Yes,2026-05-10
+R033,P008,Nice design,"The color looks exactly as pictured and the fabric is good quality. It feels comfortable, although I would prefer slightly longer sleeves. I compared it with another brand before ordering.",5,9,Yes,2026-07-01
+R004,P009,Comfortable cotton fabric,The cotton fabric feels soft and breathable. The fit is true to size and the stitching looks durable after washing. I compared it with another brand before ordering.,4,18,Yes,2026-12-28
